@@ -42,7 +42,7 @@ const produtos = [
   },
   {
     nome: "Mussarela Búfala Barra",
-    imagem: "imagens/bomdestino/BufalaBarra.png",
+    imagem: "Imagens/bomdestino/BufalaBarra.png",
     fabricante: "Bom Destino", // Adicionado fabricante
     ingredientes: `
       Leite de búfala pasteurizado, cloreto de sódio (sal), cloreto de cálcio, coagulante quimosina e fermento lático.
@@ -62,7 +62,7 @@ const produtos = [
   },
 {
   nome: "Queijo Parmesão Scala 12 meses",
-  imagem: "imagens/scala/Parmesao12Meses.png",
+  imagem: "Imagens/scala/Parmesao12Meses.png",
   fabricante: "Scala", // Adicionado fabricante
   ingredientes: `
     Queijo Parmesão (Leite pasteurizado semidesnatado, soro fermento, sal (cloreto de sódio), fermento lático, cloreto de cálcio, coalho e conservante INS 235).
@@ -84,7 +84,7 @@ const produtos = [
 },
 {
   nome: "Queijo Parmesão Scala 6 meses",
-  imagem: "imagens/scala/Scala6Meses.png",
+  imagem: "Imagens/scala/Scala6Meses.png",
   fabricante: "Scala", // Adicionado fabricante
   ingredientes: `
     Queijo Parmesão (Leite pasteurizado semidesnatado, soro fermento, sal (cloreto de sódio), fermento lático, cloreto de cálcio, coalho e conservante INS 235).
@@ -106,7 +106,7 @@ const produtos = [
 },
 {
   nome: "Cream Cheese bisnaga Scala 1.2kg",
-  imagem: "imagens/scala/CreamCheese.png",
+  imagem: "Imagens/scala/CreamCheese.png",
   fabricante: "Scala", // Adicionado fabricante
   ingredientes: `
     Leite pasteurizado semidesnatado, creme de leite, concentrado proteico, sal (cloreto de sódio), fermento lático, estabilizantes INS 415, INS 407, INS 466 e conservante INS 200.
@@ -128,7 +128,7 @@ const produtos = [
   },
   {
   nome: "Requeijão Cremoso Scala 200g",
-  imagem: "imagens/scala/RequeijaoCopo200g.png",
+  imagem: "Imagens/scala/RequeijaoCopo200g.png",
   fabricante: "Scala", // Adicionado fabricante
   ingredientes: `
     Leite pasteurizado semidesnatado, creme de leite, sal (cloreto de sódio), cloreto de cálcio, fermento lático, coagulante, emulsificantes (INS 450(iii), INS 452(i), INS 451(i), INS 450(v), INS 450(i) e INS 451(ii)), reguladores de acidez (INS 500(ii) e INS 330) e conservante INS 234.
@@ -150,7 +150,7 @@ const produtos = [
 },
 {
   nome: "Requeijão Cremoso 380g",
-  imagem: "imagens/scala/RequeijaoScala.png",
+  imagem: "Imagens/scala/RequeijaoScala.png",
   fabricante: "Scala", // Adicionado fabricante
   ingredientes: `
     Leite pasteurizado semidesnatado, creme de leite, sal (cloreto de sódio), cloreto de cálcio, fermento lático, coagulante, emulsificantes (INS 450(iii), INS 452(i), INS 451(i), INS 450(v), INS 450(i) e INS 451(ii)), reguladores de acidez (INS 500(ii) e INS 330) e conservante INS 234.
@@ -267,7 +267,7 @@ const produtos = [
 },
 {
   nome: "Parmesão Suaçui",
-  imagem: "imagens/suacui/queijo-parmesaoSuacui.png",
+  imagem: "Imagens/suacui/queijo-parmesaoSuacui.png",
   fabricante: "Suaçui", // Adicionado fabricante
   descricao: "O Queijo Parmesão Suaçui é um produto saboroso e versátil, ideal para adicionar um toque especial a diversas receitas. Com textura firme e sabor marcante, é perfeito para ser consumido fatiado, ralado ou derretido.",
   armazenamento: "Mantenha em local fresco e seco, longe de fontes de calor e umidade. Após aberto, conservar em geladeira em recipiente fechado para preservar a qualidade.",
@@ -295,7 +295,7 @@ const produtos = [
 },
 { 
   nome: "Manteiga com sal 500g",
-  imagem: "imagens/suacui/Manteiga-500gsuacu.png",
+  imagem: "Imagens//suacui/Manteiga-500gsuacu.png",
   fabricante: "Suaçui", // Adicionado fabricante
   descricao: "A Manteiga com Sal Suaçui é ideal para dar sabor e cremosidade a diversas preparações, desde o café da manhã até receitas mais elaboradas. Com textura suave e sabor marcante, é indispensável na cozinha.",
   armazenamento: "Armazene em local refrigerado entre 0°C e 4°C. Após aberto, manter bem fechado e consumir em até 30 dias para garantir a qualidade.",
@@ -323,7 +323,7 @@ const produtos = [
 },
 {
   nome: "Minas Padrão Suaçui",
-  imagem: "imagens/suacui/queijo-minas-padraoSuacui.png",
+  imagem: "Imagens//suacui/queijo-minas-padraoSuacui.png",
   fabricante: "Suaçui", // Adicionado fabricante
   descricao: "O Queijo Minas Padrão Suaçui é uma excelente escolha para quem aprecia um queijo macio e saboroso. Ideal para consumir puro, em sanduíches ou como ingrediente em diversas receitas.",
   armazenamento: "Armazene refrigerado entre 0°C e 4°C. Após aberto, mantenha bem fechado e consuma em até 10 dias para garantir frescor e qualidade.",
