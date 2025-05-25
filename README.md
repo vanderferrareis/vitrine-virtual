@@ -1,6 +1,6 @@
 # Vila Frios - Vitrine Virtual
 
-![Vila Frios Logo](imagens/logo.png)
+![Vila Frios Logo](Imagens/VilaFriosLogo.png)
 
 ## 📋 Descrição do Projeto
 
@@ -50,16 +50,16 @@ CATALOGO-LOJA/
 ## 📸 Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](screenshots/home.png)
+![Página Inicial](Imagens/screenshots/home.png)
 
 ### Catálogo de Produtos
-![Catálogo de Produtos](screenshots/produtos.png)
+![Catálogo de Produtos](Imagens/screenshots/produtos.png)
 
 ### Página de Receitas
-![Página de Receitas](screenshots/receitas.png)
+![Página de Receitas](Imagens/screenshots/receitas.png)
 
 ### Página de Contato
-![Página de Contato](screenshots/contato.png)
+![Página de Contato](Imagens/screenshots/contato.png)
 
 ## 🚀 Como Executar o Projeto
 
