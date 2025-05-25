@@ -1,6 +1,6 @@
 # Vila Frios - Vitrine Virtual
 
-![Vila Frios Logo](Imagens/VilaFriosLogo.jpg)
+![Vila Frios Logo](Imagens/VilaFriosLogo.png)
 
 ## 📋 Descrição do Projeto
 
