@@ -1,7 +1,7 @@
 const produtos = [
   {
     nome: "Queijo Mozzarella de Búfala",
-    imagem: "imagens/bomdestino/BolaCereja.png",
+    imagem: "Imagens/bomdestino/BolaCereja.png",
     fabricante: "Bom Destino", // Adicionado fabricante
     ingredientes: "Leite de búfala pasteurizado, cloreto de sódio (sal), cloreto de cálcio, coagulante quimosina e fermento lático...",
     tabelaNutricional: [
@@ -20,7 +20,7 @@ const produtos = [
   },
   {
     nome: "Burrata de Búfala",
-    imagem: "imagens/bomdestino/BufalaBurrata120g.png",
+    imagem: "Imagens/bomdestino/BufalaBurrata120g.png",
     fabricante: "Bom Destino", // Adicionado fabricante
     ingredientes: `
       Leite de búfala pasteurizado, creme de leite de búfala pasteurizado, cloreto de sódio (sal), cloreto de cálcio, coagulante quimosina e fermento lático.
