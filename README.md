@@ -50,16 +50,16 @@ CATALOGO-LOJA/
 ## 📸 Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](imagens/screenshots/home.png)
+![Página Inicial](Imagens/screenshots/home.png)
 
 ### Catálogo de Produtos
-![Catálogo de Produtos](imagens/screenshots/produtos.png)
+![Catálogo de Produtos](Imagens/screenshots/produtos.png)
 
 ### Página de Receitas
-![Página de Receitas](imagens/screenshots/receitas.png)
+![Página de Receitas](Imagens/screenshots/receitas.png)
 
 ### Página de Contato
-![Página de Contato](imagens/screenshots/contato.png)
+![Página de Contato](Imagens/screenshots/contato.png)
 
 ## 🚀 Como Executar o Projeto
 
